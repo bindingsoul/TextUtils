@@ -33,7 +33,7 @@ export default function Textform(props) {
     console.log(lf);
     console.log("Letter freq");
   };
-  const [text, setText] = useState("Enter text here");
+  const [text, setText] = useState("");
 
   return (
     <>
