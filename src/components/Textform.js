@@ -86,7 +86,7 @@ export default function Textform(props) {
         <h2>Preview</h2>
         <p>{text}</p>
       </div>
-      <div className="container">
+      <div className="container my-3 ">
         <h2>Letter freqeuncies </h2>
       </div>
     </>
