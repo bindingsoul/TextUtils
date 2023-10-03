@@ -37,10 +37,10 @@ export default function Textform(props) {
 
   return (
     <>
-      <div className="container my-4">
+      <div className="container my-4" >
         <h3>{props.heading}</h3>
 
-        <div className="form-floating my-4">
+        <div className="form-floating my-4" >
           <textarea
             className="form-control"
             placeholder="Leave a comment here"
